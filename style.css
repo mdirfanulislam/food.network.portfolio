@@ -1,0 +1,30 @@
+body h1{
+    font-family: sans-serif;
+    font-size: 50px;
+}
+.tomato-color{
+    color: tomato;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: black;
+}
+.flexible-container{
+    display: flex;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.food-network{
+    width: 90%;
+    padding-right: 25px;
+}
+.img-food-network{
+    width: 90%;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+   
